@@ -8,6 +8,16 @@ e atualizadas do **Banco Central do Brasil**.
 > focada em demonstrar a arquitetura e a regra de negócio. Roda 100% no
 > navegador (sem backend obrigatório).
 
+## Telas
+
+<p align="center">
+  <img src="docs/dashboard.jpg" alt="Dashboard com patrimônio, rendimento e taxas do Banco Central" width="240" />
+  &nbsp;
+  <img src="docs/cards.jpg" alt="Cartão com fatura aberta e pagamento" width="240" />
+  &nbsp;
+  <img src="docs/reports.jpg" alt="Relatório de gastos por categoria" width="240" />
+</p>
+
 ## Destaques
 
 - **Rendimento por conta com CDI/Selic ao vivo** — integração com a API pública
